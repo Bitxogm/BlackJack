@@ -120,7 +120,7 @@ const valorCarta = ( carta ) => {
         window.alert('Computadora gana');
     }
 
-}, 10 ); 
+}, 500); 
     };
     
 
